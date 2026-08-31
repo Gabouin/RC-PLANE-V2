@@ -1,7 +1,5 @@
 <h1 align="center">
   <br>
-  <img width=19% alt="logo perdican" src="https://github.com/user-attachments/assets/61a4c824-8660-4d4c-9045-3ede98157f96" />
-  <br>
   APX RC PLANE V2
   <br>
 </h1>
@@ -30,66 +28,47 @@ The V2 of my RC plane, but this one is 3D printed!
 </p>
 
 <br>
-<br>
-<p align=center>
-<img width=70% alt="image" src="https://github.com/user-attachments/assets/2972ea26-00a6-4626-b22f-64dd901bf482" />
-
-</p>
 
 ## About the Project
 
 **APX RC PLANE** is a simple and cost effective RC PLANE that has 3 axis and is 3D printed with lightweight filament.
 
+Check out the demo video on YouTube!
+
 ### Features
 
-- **STM32G431CBT6** MCU 32-Bit 170MHz 128KB (128K x 8) FLASH 48-LQFP (7x7)
-- **LSM6DS3TR-C** 6 axis IMU with Accelerometer, Gyroscope, Temperature
-- **14 GPIO pins** to help make any hardware project
-- **4 debugging pins** with SWCLK, SWDIO, GND and 3V3
-- **Status LEDs** to see any error from 5V or 3V3
-- **GPIO linked LED** to program it without needing an external LED
-- **GPIO linked button** to use it without needing an external button
-- **BOOT and RESET buttons**
-- **USB-C input**
-- **pixelated silkscreen art** to improve the overall look
-- **Small size** of 3.7*3.9 cm
+- **30 A ESC** to manage the electric flow
+- **3S 1000MaH** battery for a long performance
+- **2200KV** Brushless Motor
+- **6 channels** for future module additions
+- **Light weight of 720g** thanks to foaming PLA
+- **Long airframe** of 120cm
 
 ## Repository Structure
 
 - `schematic/` - wiring diagram of the electronics
-- `CAD/` — full 3d model
-- `images/` — images used in the README and documentation
+- `CAD/` - full 3d model
+- `images/` - images used in the README and documentation
 
 ## Schematic on KiCad
 
 Source : `schematic/`  
 
-<img width=100% alt="schematic rc plane" src="httpachments/assets/c4f7ff39-6ec6-476f-b53c-51222a88055d" />
+<img width="1155" height="698" alt="image" src="https://github.com/user-attachments/assets/ba49faba-33c3-4b32-993c-dc8273da7a43" />
+
 
 
 ## Images
 
 Source : `images/`  
 
-<div align="center">
-  <table>
-    <tr>
-      <td valign="bottom"><img width=100% alt="Capture d&#39;écran 2026-05-11 182925" src="https://github.com/user-attachments/assets/889c82a7-5e3d-42ed-8538-daba57545129" /></td>
-      <td valign="bottom"><img width=100% alt="image" src="https://github.com/user-attachments/assets/9066823b-47f9-45c6-bd90-0b2d233c3322" /></td>
-      <td valign="bottom"><img width="611" height="640" alt="Capture d&#39;écran 2026-05-11 163710" src="https://github.com/user-attachments/assets/0fb3e763-3524-493e-bc53-375319dc395a" /></td>
-  </table>
-</div>
-<div align="center">
-  <table>
-    <tr>
-      <td valign="bottom"><img width=100% alt="Capture d&#39;écran 2026-05-11 165135" src="https://github.com/user-attachments/assets/7d583592-5eec-41d8-b5c6-1adae2806bec" /></td>
-      <td valign="bottom"><img width=100% alt="Capture d&#39;écran 2026-05-11 165217" src="https://github.com/user-attachments/assets/9bfa6045-b343-4c8b-a260-0d9cf281aa54" />
-</td>
-  </table>
-</div>  
-
+<div align=center>
 <img width="250" height="450" alt="1" src="https://github.com/user-attachments/assets/433833a3-f714-46bb-8b1d-1418f47cb6e3" />
 <img width="250" height="450" alt="1" src="https://github.com/user-attachments/assets/e5046007-6468-41a7-8c07-a12f6cb03de0" />
+<img width="250" height="450" alt="image" src="https://github.com/user-attachments/assets/ba4cc411-8abe-4081-8582-2e84ded7c4a4" />
+<img width="250" height="450" alt="image" src="https://github.com/user-attachments/assets/07697c15-2ece-4cec-854d-74b6a962f560" />
+<img width="250" height="450" alt="image" src="https://github.com/user-attachments/assets/c1fb189d-4711-4de3-8a95-af0634aedc0b" />
+</div>
 
 
 <br>
@@ -131,7 +110,7 @@ Contributions, improvements, and remixes are welcome! Please read the [CONTRIBUT
 
 ## License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 
 ## Credits
