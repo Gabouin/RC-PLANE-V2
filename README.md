@@ -33,7 +33,7 @@ The V2 of my RC plane, but this one is 3D printed!
 
 **APX RC PLANE** is a simple and cost effective RC PLANE that has 3 axis and is 3D printed with lightweight filament.
 
-Check out the demo video on YouTube!
+Check out the demo video on [YouTube!](https://www.youtube.com/watch?v=zryhsQqn61E)
 
 ### Features
 
